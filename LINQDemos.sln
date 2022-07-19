@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQDemos.Aggregates", "LINQDemos.Aggregates\LINQDemos.Aggregates.csproj", "{47E5A22C-7987-4996-9C4F-2C7AAF330CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQDemos.Shared", "LINQDemos.Shared\LINQDemos.Shared.csproj", "{F5F05F73-F088-4756-935C-6CB334AE425A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E5A22C-7987-4996-9C4F-2C7AAF330CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E5A22C-7987-4996-9C4F-2C7AAF330CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E5A22C-7987-4996-9C4F-2C7AAF330CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E5A22C-7987-4996-9C4F-2C7AAF330CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F05F73-F088-4756-935C-6CB334AE425A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F05F73-F088-4756-935C-6CB334AE425A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F05F73-F088-4756-935C-6CB334AE425A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F05F73-F088-4756-935C-6CB334AE425A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB314BD-9A4C-45DE-BE1F-D1E30F43FCB7}
+	EndGlobalSection
+EndGlobal
